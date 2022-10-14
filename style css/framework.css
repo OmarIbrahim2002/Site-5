@@ -1,0 +1,18 @@
+/* Start Box */
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* Start Box */
+/* Start Text */
+.txt-upper{
+    text-transform: uppercase;
+}
+/* End Text */
+/* Start Colors & background */
+.bg-main{background: var(--MainColor);}
+.bg-sec{background: var(--SecColor);}
+.c-main{color: var(--MainColor);}
+.c-sec{color: var(--SecColor);}
+/* End Colors & background */
